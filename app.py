@@ -11,6 +11,10 @@ st.write(
 )
 
 models = [
+    {   
+        "name": "A blog on RAG and LLMs",
+        "url": "https://www.johnsnowlabs.com/the-power-of-small-llms-in-healthcare-a-rag-framework-alternative-to-large-language-models/"
+    },
     {
         "name": "Turkish NLP App",
         "description": "Turkish NLP application deployed on Railway.",
