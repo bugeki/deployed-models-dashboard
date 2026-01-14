@@ -12,7 +12,9 @@ st.write(
 
 models = [
     {   
-        "name": "A blog on RAG and LLMs",
+        "name": "Blog: RAG and Small LLMs",
+        "description": "Technical article on RAG frameworks and small LLMs in healthcare.",
+        "tech": "LLMs, RAG, NLP",
         "url": "https://www.johnsnowlabs.com/the-power-of-small-llms-in-healthcare-a-rag-framework-alternative-to-large-language-models/"
     },
     {
